@@ -1,0 +1,395 @@
+{
+    "extName": {
+        "message": "Mobiele simulator - responsieve testtool"
+    },
+    "extDescription": {
+        "message": "Smartphone- en tabletsimulator op computer met verschillende modellen om mobiel responsieve websites te testen."
+    },
+    "global": {
+        "message": "--------------------------------------------- ------"
+    },
+    "global_cancel": {
+        "message": "Annuleren"
+    },
+    "android_smartphone": {
+        "message": "<i class='mdi'></i> Android-smartphones"
+    },
+    "apple_smartphone": {
+        "message": "<i class='mdi'></i> Apple-smartphones"
+    },
+    "tablet": {
+        "message": "<i class='mdi'></i> Tabletten"
+    },
+    "others": {
+        "message": "<i class='mdi'></i> Aanbiedingen"
+    },
+    "copie": {
+        "message": "Kopiëren"
+    },
+    "copied": {
+        "message": "Gekopieerd"
+    },
+    "context_menu": {
+        "message": "--------------------------------------------- ------"
+    },
+    "context_menu_activate": {
+        "message": "Activeer de mobiele weergave op deze pagina"
+    },
+    "popup": {
+        "message": "--------------------------------------------- ------"
+    },
+    "popup_site_incompatible": {
+        "message": "Deze simulator kan niet worden geactiveerd op deze native Chrome-pagina. Probeer het op een ander tabblad. Of blader door een website en start deze opnieuw."
+    },
+    "popup_message": {
+        "message": "Verander van apparaat en vind alle opties via het menu aan de rechterkant van de simulator"
+    },
+    "popup_activate_local_files_info": {
+        "message": "Deze simulator kan standaard niet worden geactiveerd op lokale bestanden (file:///), maar u kunt de optie handmatig activeren op de Chrome-instellingenpagina."
+    },
+    "popup_activate_local_files_button": {
+        "message": "Activeer de optie"
+    },
+    "menu": {
+        "message": "--------------------------------------------- ------"
+    },
+    "menu_close_alone": {
+        "message": "Deactiveer de simulator"
+    },
+    "menu_close_multi": {
+        "message": "Sluit dit venster"
+    },
+    "menu_change_device": {
+        "message": "Wijzig apparaat"
+    },
+    "menu_info_device": {
+        "message": "Functies en mockup van deze telefoon (viewportresolutie, enz.)"
+    },
+    "menu_info_device_features": {
+        "message": "Functies (viewportresolutie, enz.)"
+    },
+    "menu_info_device_mockup": {
+        "message": "Gratis transparante PNG-mockup"
+    },
+    "menu_rotate": {
+        "message": "Verander de richting"
+    },
+    "menu_screenshot": {
+        "message": "Maak een screenshot"
+    },
+    "menu_screencast": {
+        "message": "Start een tabbladrecord"
+    },
+    "menu_send_improvement": {
+        "message": "Stel een verbetering voor"
+    },
+    "menu_send_message": {
+        "message": "Helpcentrum"
+    },
+    "menu_faq_title": {
+        "message": "Veel Gestelde Vragen"
+    },
+    "menu_faq_media_queries": {
+        "message": "Mijn mediaquery's werken niet"
+    },
+    "menu_faq_ignonito_mode": {
+        "message": "Hoe activeer ik de simulator in de incognitomodus?"
+    },
+    "menu_faq_scroll": {
+        "message": "Kan niet scrollen in de simulator"
+    },
+    "menu_faq_subscription": {
+        "message": "Waarom mijn abonnement niet werkt"
+    },
+    "menu_faq_shortcut": {
+        "message": "Hoe sneltoetsen configureren?"
+    },
+    "menu_faq_all": {
+        "message": "Bekijk alle veelgestelde vragen"
+    },
+    "menu_report": {
+        "message": "Rapporteer een bug"
+    },
+    "menu_vote_feature": {
+        "message": "Stem op de gewenste functies"
+    },
+    "menu_share": {
+        "message": "Deel het met een collega, een vriend,..."
+    },
+    "menu_settings": {
+        "message": "Instellingen"
+    },
+    "menu_theme_day": {
+        "message": "Activeer de dagmodus"
+    },
+    "menu_theme_night": {
+        "message": "Activeer de nachtmodus"
+    },
+    "menu_add_window": {
+        "message": "Voeg een apparaat toe in een nieuw venster"
+    },
+    "menu_help_center": {
+        "message": "Helpcentrum"
+    },
+    "simulator": {
+        "message": "--------------------------------------------- ------"
+    },
+    "simulator_header_info": {
+        "message": "Dit is een nep-element. Om de URL te wijzigen, gebruikt u gewoon het Chrome-tekstveld bovenaan."
+    },
+    "simulator_footer_info": {
+        "message": "Dit is een nep-element. Gebruik uw eigen toetsenbord."
+    },
+    "screencast": {
+        "message": "--------------------------------------------- ------"
+    },
+    "screencast_onboarding_title": {
+        "message": "Tabblad opnemen"
+    },
+    "screencast_onboarding_texte": {
+        "message": "Maak een mobiele video in GIF-formaat in 1 klik (max. 20 seconden)"
+    },
+    "screencast_onboarding_close": {
+        "message": "Dichtbij"
+    },
+    "screencast_generation": {
+        "message": "De creatie van de GIF is aan de gang"
+    },
+    "screencast_error": {
+        "message": "Er is een fout opgetreden tijdens het tabbladrecord. {Klik hier} voor een oplossing."
+    },
+    "screencast_modale_title": {
+        "message": "Tabblad opnemen"
+    },
+    "screencast_modale_texte": {
+        "message": "Je kunt deze video in verschillende formaten downloaden of een deellink krijgen."
+    },
+    "screencast_modale_download": {
+        "message": "Downloaden"
+    },
+    "screencast_modale_download_webm": {
+        "message": "Downloaden in standaard WEBM-formaat"
+    },
+    "screencast_modale_download_mp4": {
+        "message": "Betere compatibiliteit met PowerPoint, Keynote, enz."
+    },
+    "screencast_modale_download_gif": {
+        "message": "Overal compatibel, maar lagere kwaliteit"
+    },
+    "screencast_modale_copy": {
+        "message": "Kopiëren"
+    },
+    "screencast_modale_upload": {
+        "message": "Upload naar de server en ontvang de deellink"
+    },
+    "screencast_modale_contact": {
+        "message": "Rapporteer een bug, een suggestie, ..."
+    },
+    "screenshot": {
+        "message": "--------------------------------------------- ------"
+    },
+    "screenshot_menu_1": {
+        "message": "Screenshot met het apparaatframe"
+    },
+    "screenshot_menu_2": {
+        "message": "Screenshot zonder het apparaatframe"
+    },
+    "screenshot_menu_3": {
+        "message": "Schermafbeelding van volledige pagina"
+    },
+    "screenshot_modale_title": {
+        "message": "Schermafbeelding"
+    },
+    "screenshot_modale_copy": {
+        "message": "Kopieer afbeelding naar klembord"
+    },
+    "screenshot_modale_help": {
+        "message": "Om de afbeelding met een goede resolutie op te slaan, kunt u er met de rechtermuisknop op klikken en vervolgens op 'Afbeelding kopiëren' of 'Afbeelding opslaan als' klikken."
+    },
+    "pro": {
+        "message": "--------------------------------------------- ------"
+    },
+    "pro_modale_h1": {
+        "message": "Word een PRO"
+    },
+    "pro_modale_h1_limit": {
+        "message": "U heeft de limiet van vijf tabbladrecords per dag bereikt"
+    },
+    "pro_modale_h1_all_formats": {
+        "message": "Converteer uw video-opnamen naar GIF- en MP4-formaten"
+    },
+    "pro_modale_h1_devices": {
+        "message": "Simuleer alle apparaten"
+    },
+    "pro_modale_h1_settings": {
+        "message": "Ontgrendel alle instellingen"
+    },
+    "pro_modale_h1_ads": {
+        "message": "Verwijder advertenties"
+    },
+    "pro_modale_h2": {
+        "message": "Word PRO en draag actief bij aan de ontwikkeling van deze extensie."
+    },
+    "pro_modale_billed_annualy": {
+        "message": "Jaarlijks gefactureerd"
+    },
+    "pro_modale_savings": {
+        "message": "Redden"
+    },
+    "pro_modale_from": {
+        "message": "Van"
+    },
+    "pro_modale_recurring_month": {
+        "message": "maand"
+    },
+    "pro_modale_button": {
+        "message": "Abonneren"
+    },
+    "pro_modale_link_1": {
+        "message": "Of"
+    },
+    "pro_modale_link_2": {
+        "message": "Log in"
+    },
+    "pro_modale_link_3": {
+        "message": "naar jouw rekening"
+    },
+    "pro_modale_avantage_1": {
+        "message": "Onbeperkt tabbladrecords"
+    },
+    "pro_modale_avantage_2": {
+        "message": "Verwijder advertenties"
+    },
+    "sharing": {
+        "message": "--------------------------------------------- ------"
+    },
+    "sharing_h1": {
+        "message": "Is deze extensie nuttig voor u?"
+    },
+    "sharing_h2": {
+        "message": "Deel het dus met je collega's of vrienden"
+    },
+    "sharing_txt": {
+        "message": "Simulator om uw site te testen op smartphone en tablet"
+    },
+    "sharing_review_1": {
+        "message": "En als je even tijd hebt"
+    },
+    "sharing_review_2": {
+        "message": "Voeg een beoordeling toe"
+    },
+    "sharing_review_3": {
+        "message": "Ik zou je heel dankbaar zijn 🙂"
+    },
+    "sharing_review_button": {
+        "message": "Ik voeg een recensie toe"
+    },
+    "review": {
+        "message": "--------------------------------------------- ------"
+    },
+    "review_h1": {
+        "message": "Zou u deze extensie aanbevelen?"
+    },
+    "review_note_store": {
+        "message": "Bedankt voor je feedback. Voeg gerust een recensie toe in de Google Store. Ik zou je heel dankbaar zijn 😊"
+    },
+    "review_note_feedback": {
+        "message": "Bedankt voor je feedback, stuur ons gerust een bericht zodat we deze extensie kunnen verbeteren."
+    },
+    "button_feedback": {
+        "message": "Voeg een beoordeling toe"
+    },
+    "button_message": {
+        "message": "zend ons een bericht"
+    },
+    "close": {
+        "message": "Dichtbij"
+    },
+    "settings": {
+        "message": "--------------------------------------------- ------"
+    },
+    "settings_hide_header_footer": {
+        "message": "Verberg de browserkop- en voettekst op het apparaat (PWA)"
+    },
+    "settings_hide_keyboard": {
+        "message": "Laat het neptoetsenbord niet zien"
+    },
+    "settings_scrollbar_show": {
+        "message": "Toon de eigen schuifbalk op het apparaat (als u geen trackpad of muiswiel heeft)"
+    },
+    "settings_change_cursor": {
+        "message": "Wijzig de cursorstijl op het apparaat niet"
+    },
+    "settings_change_background": {
+        "message": "Verander de achtergrondkleur"
+    },
+    "settings_default_device": {
+        "message": "Standaardapparaat van elke nieuwe activering"
+    },
+    "settings_change_analytics": {
+        "message": "Ik ondersteun de ontwikkelaar van deze extensie om zijn product te verbeteren dankzij Google Analytics. Gegevens zijn anoniem."
+    },
+    "settings_device_hide": {
+        "message": "Verberg het apparaat"
+    },
+    "settings_batterie_level": {
+        "message": "Batterijniveau in de terminalkop (%)"
+    },
+    "modales": {
+        "message": "--------------------------------------------- ------"
+    },
+    "new_iphone_15_h1": {
+        "message": "Wees de eerste die de iPhone 15 PRO (virtueel) gebruikt"
+    },
+    "notifications": {
+        "message": "--------------------------------------------- ------"
+    },
+    "notification_update_title_v100_100_100": {
+        "message": "<strong class='mb-2 is-block'>Informatie</strong> Touch-scrollen is niet beschikbaar in deze simulator, maar u kunt <strong>de schuifbalk weergeven</strong> als u niet over een muiswiel of trackpad beschikt om te scrollen.<br><br> Het is een optie in de instellingen rechtsonder <i class='mdi'></i>"
+    },
+    "notification_update_title_v3_2_0": {
+        "message": "<strong>Update v3.2</strong><br> Is het nu mogelijk om een screenshot <i class='mdi'></i> te maken <strong>zonder het mobiele frame</strong>"
+    },
+    "notification_update_title_v3_3_1": {
+        "message": "<strong>Update v3.3</strong><br> Is het nu mogelijk om de <strong>nachtmodus <i class='mdi'></i></strong> te activeren en de achtergrondkleur in de instellingen <i class='mdi'></i> te overschrijven"
+    },
+    "notification_update_title_v3_4_0": {
+        "message": "<strong>Update v3.4</strong><br> Is het nu mogelijk om <strong>paginagrote schermafbeeldingen te maken <i class='mdi'></i></strong>"
+    },
+    "notification_update_title_v3_4_1": {
+        "message": "<strong>Update v3.4</strong><br> Bugfix over de <strong>kwaliteit van de screenshots <i class='mdi'></i></strong>"
+    },
+    "notification_update_title_v3_5_0": {
+        "message": "<strong>Update v3.5</strong><br> <strong>7 nieuwe recente apparaten</strong> (2 in de PRO-versie) <i class='mdi'></i> + bugfix op de screenshot-functie"
+    },
+    "notification_update_title_v3_5_2": {
+        "message": "<strong class='mb-2 is-block'>Update v3.5</strong> Je kunt nu gratis de <strong>transparante PNG-mockups</strong> van de apparaten downloaden.<br> Zoek de infoknop in het menu aan de rechterkant."
+    },
+    "notification_update_title_v3_5_3": {
+        "message": "<strong class='mb-2 is-block'>Tip</strong> U kunt de simulator activeren op <strong>lokale bestanden (file:///)</strong> . Klik hieronder om de optie handmatig te activeren."
+    },
+    "notification_update_title_v3_6_0": {
+        "message": "<strong class='mb-2 is-block'>Update v3.6</strong> 3 nieuwe recente apparaten (in de PRO-versie). Samsung Galaxy S22, S22+ en S22 ULTRA <i class='mdi'></i>"
+    },
+    "notification_update_title_v3_6_4": {
+        "message": "<strong class='mb-2 is-block'>Update v3.6</strong> 3 nieuwe apparaten, Samsung Galaxy A12 en andere speciale apparaten <i class='mdi'></i> & bugfixes."
+    },
+    "notification_update_title_v3_7_0": {
+        "message": "<strong class='mb-2 is-block'>Update v3.7</strong> Mogelijkheid om het <strong>standaardapparaat</strong> te wijzigen wanneer de simulator is geactiveerd in de instellingen <i class='mdi'></i>"
+    },
+    "notification_update_title_v3_8_0": {
+        "message": "<strong class='mb-2 is-block'>Update v3.8</strong> Ontdek de 4 nieuwe iPhone 14 (in de PRO-versie) <i class='mdi'></i>"
+    },
+    "notification_update_title_v3_9_0": {
+        "message": "<strong class='mb-2 is-block'>Update v3.9</strong> Ontdek de 4 nieuwe iPhone 15 met de notch (in de PRO-versie) <i class='mdi'></i>"
+    },
+    "notification_update_title_v4_0_0": {
+        "message": "<strong class='mb-2 is-block'>Update v4.0</strong> Belangrijke update met betrekking tot video-opname. Nieuwe videoformaten en onbeperkte opnametijd! <i class='mdi'></i>"
+    },
+    "notification_update_title_v4_0_1": {
+        "message": "<strong class='mb-2 is-block'>Update v4.0</strong> Oplossingen met betrekking tot weergaveproblemen in de simulator."
+    },
+    "notification_update_title_v4_1_0": {
+        "message": "<strong class='mb-2 is-block'>Update v4.1</strong> 3 nieuwe recente apparaten (in de PRO-versie). Google Pixel 8, Samsung Galaxy S24 en ULTRA <i class='mdi'></i>"
+    }
+}

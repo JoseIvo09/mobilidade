@@ -1,0 +1,395 @@
+{
+    "extName": {
+        "message": "モバイルシミュレーター - レスポンシブテストツール"
+    },
+    "extDescription": {
+        "message": "モバイル対応の Web サイトをテストするための複数のモデルを備えたコンピューター上のスマートフォンおよびタブレット シミュレーター。"
+    },
+    "global": {
+        "message": "--------------------------------------------------------"
+    },
+    "global_cancel": {
+        "message": "キャンセル"
+    },
+    "android_smartphone": {
+        "message": "<i class='mdi'></i> Androidスマートフォン"
+    },
+    "apple_smartphone": {
+        "message": "<i class='mdi'></i> Apple スマートフォン"
+    },
+    "tablet": {
+        "message": "<i class='mdi'></i>タブレット"
+    },
+    "others": {
+        "message": "<i class='mdi'></i>スペシャル"
+    },
+    "copie": {
+        "message": "コピー"
+    },
+    "copied": {
+        "message": "コピーしました"
+    },
+    "context_menu": {
+        "message": "--------------------------------------------------------"
+    },
+    "context_menu_activate": {
+        "message": "このページのモバイルビューを有効にする"
+    },
+    "popup": {
+        "message": "--------------------------------------------------------"
+    },
+    "popup_site_incompatible": {
+        "message": "このシミュレーターは、このネイティブ Chrome ページではアクティブ化できません。別のタブで試してください。または、Web サイトをブラウザで開いて再起動してください。"
+    },
+    "popup_message": {
+        "message": "デバイスを変更し、シミュレータの右側にあるメニューを使用してすべてのオプションを見つけます"
+    },
+    "popup_activate_local_files_info": {
+        "message": "このシミュレーターは、デフォルトではローカル ファイル (file:///) では有効にできませんが、Chrome 設定ページでオプションを手動で有効にすることができます。"
+    },
+    "popup_activate_local_files_button": {
+        "message": "オプションを有効にする"
+    },
+    "menu": {
+        "message": "--------------------------------------------------------"
+    },
+    "menu_close_alone": {
+        "message": "シミュレーターを無効にする"
+    },
+    "menu_close_multi": {
+        "message": "このウィンドウを閉じる"
+    },
+    "menu_change_device": {
+        "message": "デバイスの変更"
+    },
+    "menu_info_device": {
+        "message": "この携帯電話の機能とモックアップ（ビューポート解像度など）"
+    },
+    "menu_info_device_features": {
+        "message": "機能（ビューポート解像度など）"
+    },
+    "menu_info_device_mockup": {
+        "message": "無料のPNG透明モックアップ"
+    },
+    "menu_rotate": {
+        "message": "向きを変える"
+    },
+    "menu_screenshot": {
+        "message": "スクリーンショットを撮る"
+    },
+    "menu_screencast": {
+        "message": "タブ記録を開始する"
+    },
+    "menu_send_improvement": {
+        "message": "改善を提案する"
+    },
+    "menu_send_message": {
+        "message": "ヘルプセンター"
+    },
+    "menu_faq_title": {
+        "message": "よくある質問"
+    },
+    "menu_faq_media_queries": {
+        "message": "メディアクエリが機能しない"
+    },
+    "menu_faq_ignonito_mode": {
+        "message": "シークレットモードでシミュレーターをアクティブ化するにはどうすればよいですか?"
+    },
+    "menu_faq_scroll": {
+        "message": "シミュレーターでスクロールできません"
+    },
+    "menu_faq_subscription": {
+        "message": "サブスクリプションが機能しない理由"
+    },
+    "menu_faq_shortcut": {
+        "message": "キーボードショートカットを設定するにはどうすればいいですか?"
+    },
+    "menu_faq_all": {
+        "message": "よくある質問をすべて見る"
+    },
+    "menu_report": {
+        "message": "バグを報告"
+    },
+    "menu_vote_feature": {
+        "message": "欲しい機能に投票してください"
+    },
+    "menu_share": {
+        "message": "同僚、友人などと共有しましょう..."
+    },
+    "menu_settings": {
+        "message": "設定"
+    },
+    "menu_theme_day": {
+        "message": "デイモードを有効にする"
+    },
+    "menu_theme_night": {
+        "message": "夜間モードを有効にする"
+    },
+    "menu_add_window": {
+        "message": "新しいウィンドウでデバイスを追加する"
+    },
+    "menu_help_center": {
+        "message": "ヘルプセンター"
+    },
+    "simulator": {
+        "message": "--------------------------------------------------------"
+    },
+    "simulator_header_info": {
+        "message": "これは偽の要素です。URL を変更するには、上部の Chrome テキスト フィールドを使用します。"
+    },
+    "simulator_footer_info": {
+        "message": "これは偽の要素です。独自のキーボードを使用してください。"
+    },
+    "screencast": {
+        "message": "--------------------------------------------------------"
+    },
+    "screencast_onboarding_title": {
+        "message": "タブレコード"
+    },
+    "screencast_onboarding_texte": {
+        "message": "1 回のクリックで GIF 形式のモバイル ビデオを作成します (最大 20 秒)"
+    },
+    "screencast_onboarding_close": {
+        "message": "近い"
+    },
+    "screencast_generation": {
+        "message": "GIFの作成進行中"
+    },
+    "screencast_error": {
+        "message": "タブ記録中にエラーが発生しました。回避策については、{ここをクリック}してください。"
+    },
+    "screencast_modale_title": {
+        "message": "タブレコード"
+    },
+    "screencast_modale_texte": {
+        "message": "このビデオをさまざまな形式でダウンロードしたり、共有リンクを取得したりできます。"
+    },
+    "screencast_modale_download": {
+        "message": "ダウンロード"
+    },
+    "screencast_modale_download_webm": {
+        "message": "デフォルトのWEBM形式でダウンロード"
+    },
+    "screencast_modale_download_mp4": {
+        "message": "PowerPoint、Keynote などとの互換性が向上しました。"
+    },
+    "screencast_modale_download_gif": {
+        "message": "どこでも互換性があるが、品質は低い"
+    },
+    "screencast_modale_copy": {
+        "message": "コピー"
+    },
+    "screencast_modale_upload": {
+        "message": "サーバーにアップロードして共有リンクを取得する"
+    },
+    "screencast_modale_contact": {
+        "message": "バグ、提案などを報告してください..."
+    },
+    "screenshot": {
+        "message": "--------------------------------------------------------"
+    },
+    "screenshot_menu_1": {
+        "message": "デバイスフレームのスクリーンショット"
+    },
+    "screenshot_menu_2": {
+        "message": "デバイスのフレームなしのスクリーンショット"
+    },
+    "screenshot_menu_3": {
+        "message": "全ページのスクリーンショット"
+    },
+    "screenshot_modale_title": {
+        "message": "スクリーンショット"
+    },
+    "screenshot_modale_copy": {
+        "message": "画像をクリップボードにコピー"
+    },
+    "screenshot_modale_help": {
+        "message": "画像を適切な解像度で保存するには、画像を右クリックして「画像をコピー」または「名前を付けて画像を保存」します。"
+    },
+    "pro": {
+        "message": "--------------------------------------------------------"
+    },
+    "pro_modale_h1": {
+        "message": "プロになる"
+    },
+    "pro_modale_h1_limit": {
+        "message": "1日あたりのタブ記録の上限5件に達しました"
+    },
+    "pro_modale_h1_all_formats": {
+        "message": "ビデオキャプチャをGIFおよびMP4形式に変換します"
+    },
+    "pro_modale_h1_devices": {
+        "message": "すべてのデバイスをシミュレートする"
+    },
+    "pro_modale_h1_settings": {
+        "message": "すべての設定のロックを解除"
+    },
+    "pro_modale_h1_ads": {
+        "message": "広告を削除"
+    },
+    "pro_modale_h2": {
+        "message": "PRO になって、この拡張機能の開発に積極的に貢献してください。"
+    },
+    "pro_modale_billed_annualy": {
+        "message": "年払い"
+    },
+    "pro_modale_savings": {
+        "message": "保存"
+    },
+    "pro_modale_from": {
+        "message": "から"
+    },
+    "pro_modale_recurring_month": {
+        "message": "月"
+    },
+    "pro_modale_button": {
+        "message": "購読する"
+    },
+    "pro_modale_link_1": {
+        "message": "または"
+    },
+    "pro_modale_link_2": {
+        "message": "ログイン"
+    },
+    "pro_modale_link_3": {
+        "message": "あなたのアカウントに"
+    },
+    "pro_modale_avantage_1": {
+        "message": "無制限のタブ記録"
+    },
+    "pro_modale_avantage_2": {
+        "message": "広告を削除"
+    },
+    "sharing": {
+        "message": "--------------------------------------------------------"
+    },
+    "sharing_h1": {
+        "message": "この拡張機能は便利ですか?"
+    },
+    "sharing_h2": {
+        "message": "同僚や友人と共有しましょう"
+    },
+    "sharing_txt": {
+        "message": "スマートフォンやタブレットでサイトをテストするためのシミュレーター"
+    },
+    "sharing_review_1": {
+        "message": "もし少し時間があれば"
+    },
+    "sharing_review_2": {
+        "message": "レビューを追加する"
+    },
+    "sharing_review_3": {
+        "message": "大変感謝いたします 🙂"
+    },
+    "sharing_review_button": {
+        "message": "レビューを追加する"
+    },
+    "review": {
+        "message": "--------------------------------------------------------"
+    },
+    "review_h1": {
+        "message": "この拡張機能をお勧めしますか?"
+    },
+    "review_note_store": {
+        "message": "ご意見ありがとうございます。Google ストアにレビューを追加してください。とても助かります 😊"
+    },
+    "review_note_feedback": {
+        "message": "フィードバックをいただきありがとうございます。この拡張機能を改善できるよう、お気軽にメッセージをお送りください。"
+    },
+    "button_feedback": {
+        "message": "レビューを追加する"
+    },
+    "button_message": {
+        "message": "私達にメッセージを送ります"
+    },
+    "close": {
+        "message": "近い"
+    },
+    "settings": {
+        "message": "--------------------------------------------------------"
+    },
+    "settings_hide_header_footer": {
+        "message": "デバイス内のブラウザのヘッダーとフッターを非表示にする (PWA)"
+    },
+    "settings_hide_keyboard": {
+        "message": "偽のキーボードを表示しない"
+    },
+    "settings_scrollbar_show": {
+        "message": "デバイスのネイティブスクロールバーを表示します（トラックパッドやマウスホイールがない場合）"
+    },
+    "settings_change_cursor": {
+        "message": "デバイスのカーソルスタイルを変更しないでください"
+    },
+    "settings_change_background": {
+        "message": "背景色を変更する"
+    },
+    "settings_default_device": {
+        "message": "新規アクティベーションのデフォルトデバイス"
+    },
+    "settings_change_analytics": {
+        "message": "私は Google Analytics を利用して、この拡張機能の開発者が製品を改善できるようサポートしています。データは匿名です。"
+    },
+    "settings_device_hide": {
+        "message": "デバイスを非表示にする"
+    },
+    "settings_batterie_level": {
+        "message": "端末ヘッダーのバッテリーレベル（％）"
+    },
+    "modales": {
+        "message": "--------------------------------------------------------"
+    },
+    "new_iphone_15_h1": {
+        "message": "iPhone 15 PROを（仮想的に）最初に使ってみよう"
+    },
+    "notifications": {
+        "message": "--------------------------------------------------------"
+    },
+    "notification_update_title_v100_100_100": {
+        "message": "<strong class='mb-2 is-block'>情報</strong>このシミュレータではタッチスクロールは使用できませんが、スクロールするためのマウスホイールやトラックパッドがない場合は<strong>、スクロールバーを表示</strong>できます。<br><br>右下の設定のオプションです<i class='mdi'></i>"
+    },
+    "notification_update_title_v3_2_0": {
+        "message": "<strong>アップデート v3.2</strong><br><strong>モバイルフレームなしで</strong>スクリーン<i class='mdi'>ショット</i>を撮ることは可能になりましたか？"
+    },
+    "notification_update_title_v3_3_1": {
+        "message": "<strong>アップデート v3.3</strong><br><strong>夜間モードを有効にして<i class='mdi'></i></strong> 、設定で背景色を上書きできるようになりました<i class='mdi'></i>"
+    },
+    "notification_update_title_v3_4_0": {
+        "message": "<strong>アップデート v3.4</strong><br><strong>全ページのスクリーンショットを作成できるようになりました<i class='mdi'></i></strong>"
+    },
+    "notification_update_title_v3_4_1": {
+        "message": "<strong>アップデート v3.4</strong><br><strong>スクリーンショットの品質に関するバグ修正<i class='mdi'></i></strong>"
+    },
+    "notification_update_title_v3_5_0": {
+        "message": "<strong>アップデート v3.5</strong><br> <strong>7 つの新しい最近のデバイス</strong>(PRO バージョンでは 2 つ) <i class='mdi'></i> + スクリーンショット機能のバグ修正"
+    },
+    "notification_update_title_v3_5_2": {
+        "message": "<strong class='mb-2 is-block'>アップデート v3.5</strong>デバイスの<strong>透明な PNG モックアップを</strong>無料でダウンロードできるようになりました。<br>右側のメニューで情報ボタンを見つけます。"
+    },
+    "notification_update_title_v3_5_3": {
+        "message": "<strong class='mb-2 is-block'>ヒント</strong>シミュレーターは<strong>ローカル ファイル (file:///)</strong>でアクティブ化できます。オプションを手動でアクティブ化するには、以下をクリックします。"
+    },
+    "notification_update_title_v3_6_0": {
+        "message": "<strong class='mb-2 is-block'>アップデート v3.6</strong> 3つの新しい最新デバイス（PROバージョン）。Samsung Galaxy S22、S22+、S22 ULTRA <i class='mdi'></i>"
+    },
+    "notification_update_title_v3_6_4": {
+        "message": "<strong class='mb-2 is-block'>アップデート v3.6</strong> 3 つの新しいデバイス、Samsung Galaxy A12 およびその他の特別なデバイス<i class='mdi'></i>およびバグ修正。"
+    },
+    "notification_update_title_v3_7_0": {
+        "message": "<strong class='mb-2 is-block'>アップデート v3.7</strong>設定でシミュレーターがアクティブになっているときに<strong>デフォルトのデバイス</strong>を変更できるようになりました<i class='mdi'></i>"
+    },
+    "notification_update_title_v3_8_0": {
+        "message": "<strong class='mb-2 is-block'>アップデート v3.8</strong> 4つの新しい iPhone 14 を発見 (PRO バージョン) <i class='mdi'></i>"
+    },
+    "notification_update_title_v3_9_0": {
+        "message": "<strong class='mb-2 is-block'>アップデート v3.9</strong>ノッチ付きの新しい iPhone 15 4 機種 (PRO バージョン) を発見<i class='mdi'></i>"
+    },
+    "notification_update_title_v4_0_0": {
+        "message": "<strong class='mb-2 is-block'>アップデート v4.0</strong>ビデオキャプチャに関する重要なアップデート。新しいビデオ形式と無制限の録画時間! <i class='mdi'></i>"
+    },
+    "notification_update_title_v4_0_1": {
+        "message": "<strong class='mb-2 is-block'>アップデート v4.0</strong>シミュレーターの表示に関する問題を修正しました。"
+    },
+    "notification_update_title_v4_1_0": {
+        "message": "<strong class='mb-2 is-block'>アップデート v4.1</strong> 3つの新しい最新デバイス（PROバージョン）。Google Pixel 8、Samsung Galaxy S24、ULTRA <i class='mdi'></i>"
+    }
+}
